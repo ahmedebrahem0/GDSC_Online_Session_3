@@ -1,0 +1,107 @@
+/* 
+
+.all {
+    background-color:red;
+}
+
+.div-1 {
+    background-color:aqua;
+    width:24.5%;
+    display: inline-block;
+    text-align: center;
+}
+
+.div-1 img {
+    width:100%;
+    border-radius:50%
+}
+
+.vip {
+    background-color:black;
+    width: 100px;
+    height: 1px;
+    margin: auto;
+} */
+
+/* .all {
+    background-color:aqua;
+}
+
+.div-1 {
+    background-color:red;   
+    width:20%;
+    text-align: center;
+    float: left;
+}
+
+.div-1 img {
+    width:100%;
+}
+
+.clr {
+    clear: both;
+} */
+/* .container {
+    background-color:red;
+}
+
+.div-1 {
+    background-color:aqua;
+    width: 40%;
+    float: left;
+}
+.div-2 {
+    background-color:rgb(64, 0, 255);
+    width:60%;
+    float: left;
+    text-align: center;
+    padding-top:250px;
+    height: 600px;
+}
+
+.btn {
+    padding: 15px 20px;
+    border:2px solid black;
+    background-color:transparent;
+
+
+}
+
+p {
+    color:rgb(203, 203, 203)
+} */
+
+/* 
+.container {
+    background-color:red;
+}
+
+.vip {
+    background-color:aqua;
+    background-image:url(./home.jpeg);
+    text-align: center;
+    padding-top: 90px;
+    height:75vh;
+    color:aliceblue;
+    background-size:cover;
+    background-position: center ;
+} */
+
+
+body {
+    height: 10000px;
+}
+.frist {
+    /* margin-top: 1000px; */
+    background-image:url(./pizza-1296x728-header.webp);
+    background-attachment:fixed;
+    background-position: center;
+    background-size:cover;
+    height:400px;
+}
+/* .vip {
+    background-color:red;
+    width: 100px;
+    height:100px;
+    background-position:top right;
+} */
